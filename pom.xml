@@ -68,7 +68,7 @@
         <maven-gpg-plugin.version>3.2.5</maven-gpg-plugin.version>
         <nexus-staging-maven-plugin.version>1.7.0</nexus-staging-maven-plugin.version>
         <okhttp.version>4.11.0-CATS</okhttp.version>
-        <swagger.parser.version>2.1.23-CATS</swagger.parser.version>
+        <swagger.parser.version>2.1.32</swagger.parser.version>
         <okio.version>3.9.0</okio.version>
         <wiremock.version>3.9.1</wiremock.version>
         <maven-enforcer-plugin.version>3.5.0</maven-enforcer-plugin.version>
