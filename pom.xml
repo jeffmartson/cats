@@ -54,7 +54,7 @@
         <assertj-core.version>3.26.3</assertj-core.version>
         <maven-resources-plugin.version>3.3.1</maven-resources-plugin.version>
         <maven-install-plugin.version>3.1.3</maven-install-plugin.version>
-        <spring-integration-core.version>6.3.3</spring-integration-core.version>
+        <spring-integration-core.version>6.5.1</spring-integration-core.version>
         <json.version>20240303</json.version>
         <error-prone.version>2.18.0</error-prone.version>
         <archunit-junit5.version>1.3.0</archunit-junit5.version>
