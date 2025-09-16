@@ -67,7 +67,7 @@
         <maven-javadoc-plugin.version>3.8.0</maven-javadoc-plugin.version>
         <maven-gpg-plugin.version>3.2.5</maven-gpg-plugin.version>
         <nexus-staging-maven-plugin.version>1.7.0</nexus-staging-maven-plugin.version>
-        <okhttp.version>4.11.0-CATS</okhttp.version>
+        <okhttp.version>4.12.0</okhttp.version>
         <swagger.parser.version>2.1.23-CATS</swagger.parser.version>
         <okio.version>3.9.0</okio.version>
         <wiremock.version>3.9.1</wiremock.version>
