@@ -72,7 +72,7 @@
         <okio.version>3.9.0</okio.version>
         <wiremock.version>3.9.1</wiremock.version>
         <maven-enforcer-plugin.version>3.5.0</maven-enforcer-plugin.version>
-        <regexp-gen.version>2.0.1</regexp-gen.version>
+        <regexp-gen.version>3.0.0</regexp-gen.version>
         <slf4j-ext.version>2.0.12</slf4j-ext.version>
         <javafaker.version>1.0.2</javafaker.version>
         <kotlin-reflect.version>2.0.20</kotlin-reflect.version>
